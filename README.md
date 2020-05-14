@@ -1,2 +1,2 @@
-Python Course
-  Google - Digital Workshop
+**Python Course**<br/>
+&nbsp;    Google - Digital Workshop
